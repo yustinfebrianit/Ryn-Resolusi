@@ -2,3 +2,5 @@ Ryn Resolusi
 - Membuat Web
 - Membuat Mobile Apps
 - Memahami UI/UX
+- Magang di semester 6
+- Redesign Food Order Apps
